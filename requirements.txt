@@ -2,4 +2,5 @@ Flask
 torch
 torchvision
 nltk
-Flask-Cors   
+Flask-Cors  
+gunicorn==20.0.4 
