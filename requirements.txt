@@ -4,3 +4,5 @@ torchvision
 nltk
 Flask-Cors  
 gunicorn==20.0.4 
+boto3==1.9.148
+kubernetes==10.0.1
